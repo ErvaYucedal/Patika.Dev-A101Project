@@ -8,9 +8,8 @@ Utilities oluşturularak daha az kod kullanılarak kod tasarrufuna gidildi ve da
 UI kısmı için Selenium Webdriver, Java kodlama dili ve  framework olarakta Cucumber BDD kullanıldı.Java 11 kullanıldı.
 Gherkin Language kullanıldı.Test raporları için hooks eklentisi kullanıldı.
 
-Mobil kısmı için Appium kuruldu.Java 8 kullanıldı Framework olarak TestNG kullanıldı.Vysor ile telefona bağlanıp (Xiomi note 9 pro) 
-test gerçekleştirildi.Chrome(105.0.5195.127).exe kullanıldı.Driverda context kullanılarak CHROMİUM'a geçildi. 
-
+Mobil kısmı için Appium kullanıldı.Java 8 kullanıldı Framework olarak TestNG kullanıldı.Vysor ile telefona bağlanıp (Xiomi note 9 pro) 
+test gerçekleştirildi.Chrome(105.0.5195.127).exe kullanıldı ve CHROMİUM kullanıldı. 
 
 
 
