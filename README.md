@@ -13,9 +13,11 @@ test gerçekleştirildi.Chrome(105.0.5195.127).exe kullanıldı.Driverda context
 
 
 
+
 Case Catalog
 
-Course Name A101 Test Otomasyon Practicum Type First Case Language Java Technologies to be used Selenium Case Detail Uçtan uca ödeme ekranına kadar Selenium’da java dili ile chrome browser kullanarak test otomasyon ödevi yapılacak.
+Course Name A101 Test Otomasyon Practicum Type First Case Language Java Technologies to be used Selenium Case Detail Uçtan uca ödeme ekranına kadar 
+Selenium’da java dili ile chrome browser kullanarak test otomasyon ödevi yapılacak.
 
 Ödeme ekranı doldurulmayacak. Aşağıdaki senaryoyu web ve mobil olmak üzere 2 çeşit oluşturabilirlerse çok iyi olur. En az Web’de yapmak zorunlu.
 
