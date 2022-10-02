@@ -2,7 +2,7 @@
 
 Patika.dev öncülüğünde A101 sitesinin testlerini gerçekleştirdiğimiz projede Versiyon kontrol aracı olarak Git, 
 repostory için Github, Projeyi build etmek için Maven kullanıldı. Proje OOP konsepte uygun biçimde Page Object modele göre inşaa edildi. 
-Utilities oluşturularak daha az kod kullanıldı ve daha dinamik hale geldi.
+Utilities oluşturularak daha az kod kullanılarak kod tasarrufuna gidildi ve daha dinamik hale geldi.
 
 
 UI kısmı için Selenium Webdriver, Java kodlama dili ve  framework olarakta Cucumber BDD kullanıldı.Java 11 kullanıldı.
